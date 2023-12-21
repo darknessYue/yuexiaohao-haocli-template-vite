@@ -1,7 +1,6 @@
 {
-  "name": "hao-cli-dev-vite",
-  "private": true,
-  "version": "0.0.0",
+  "name": "<%= className %>",
+  "version": "<%= version %>",
   "type": "module",
   "scripts": {
     "dev": "vite",
